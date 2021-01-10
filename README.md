@@ -19,7 +19,7 @@ Here are a few things I've picked up along my learning journey.
 ## 📫 Get in touch
 - LinkedIn - [Nguyen Tan Thang](https://www.linkedin.com/in/th%E1%BA%AFng-nguy%E1%BB%85n-t%E1%BA%A5n-a55239187/)
 - CodePen - [Nguyen Tan Thang](https://codepen.io/nguyn-tn-thng)
-- DevChallenge - [adnanazmee](https://portfolio.devchallenges.io/NguyenTanThang)
+- DevChallenge - [Nguyen Tan Thang](https://portfolio.devchallenges.io/NguyenTanThang)
 - Facebook - [Nguyen Tan Thang](https://www.facebook.com/tanthang.nguyen.58/)
 
  or give some ♥ on [mail](mailto:nguyentanthang1118@gmail.com) .
