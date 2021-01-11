@@ -13,7 +13,7 @@ Here are a few things I've picked up along my learning journey.
 * 🖇️ Express.js
 * 🛢️ MongoDB | SQL 
 * :octocat: Git | Github
-* 🌐 HTML | CSS | JavaScript
+* 🌐 HTML | CSS | JavaScript | React.js
 * ☁ Firebase
 
 ## 📫 Get in touch
